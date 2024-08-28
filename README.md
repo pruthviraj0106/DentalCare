@@ -46,19 +46,9 @@
 The DentalCare website is deployed on Netlify. You can view the live site at: [DentalCare on Netlify](https://react-js-dentcare.netlify.app/)
 
 
-## Screenshots
-Here are some screenshots of the DentalCare website:
+## Deployment
 
-
-- **Opening Hour Page**
-  ![Home Page](images\Opening_Hour_Page.png)
-
-- **Pricing Page**
-  ![Pricing Page](images/pricing_Page.png)
-
-- **Contact Page**
-  ![Contact Page](images\Contact_Us_Page.png)
-
+The DentalCare website is deployed on Netlify. You can view the live site at: [DentalCare on Netlify](https://react-js-dentcare.netlify.app/)
 
 
 ## Future Improvements
