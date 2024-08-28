@@ -40,13 +40,7 @@
 ```bash
     npm start
 
-
-
-## Deployment
-The DentalCare website is deployed on Netlify. You can view the live site at: [DentalCare on Netlify](https://react-js-dentcare.netlify.app/)
-
-
-## Deployment
+###Deployment
 
 The DentalCare website is deployed on Netlify. You can view the live site at: [DentalCare on Netlify](https://react-js-dentcare.netlify.app/)
 
